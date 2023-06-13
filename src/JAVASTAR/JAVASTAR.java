@@ -27,6 +27,7 @@ public class JAVASTAR {
 	            System.out.println();
 	            i++;
 	        }
+	        
 	    }
 
 	}
